@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "thi is a demo articlee for map's blog."
+title:      "this is a demo article for map's blog."
 date:       2015-09-18 12:00:00
 author:     "Cundong"
 header-img: "img/post-bg-05.jpg"
