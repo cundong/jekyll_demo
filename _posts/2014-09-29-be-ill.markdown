@@ -1,0 +1,15 @@
+---
+layout:     post
+title:      "吃奶撑着胃了，上吐下泻两天。。"
+subtitle:   ""
+date:       2015-09-29 19:17:18
+author:     "Cundong"
+header-img: "img/post-bg-06.jpg"
+---
+
+<p>吃奶撑着胃了，上吐下泻两天，昨天还吐奶了，今天早晨去医院拿了些药，慢慢恢复中。。</p>
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/map_2.jpg" alt="我">
+</a>
+<span class="caption text-muted">只能宅在家中</span>
