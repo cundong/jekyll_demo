@@ -12,7 +12,7 @@ header-img: "img/post-bg-02.jpg"
 </p>
 
 <a href="#">
-    <img src="{{ site.baseurl }}/img/map_31.jpg">
+    <img src="{{ site.baseurl }}/img/map_32.jpg">
 </a>
 <span class="caption text-muted">
 	到家后，先到处逛逛，跟空气净化器合个影，我们两个貌似差不多高。
