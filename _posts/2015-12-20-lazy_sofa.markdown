@@ -1,0 +1,28 @@
+---
+layout:     post
+title:      "懒人沙发"
+subtitle:   ""
+date:       2015-12-20 15:10:18
+author:     "Cundong"
+header-img: "img/post-bg-01.jpg"
+---
+
+<P>
+    爸爸在双十二购物节的时候，秒杀到了一只懒人沙发，才一块钱，我觉得好神奇。
+</p>
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/map_34.jpg">
+</a>
+<span class="caption text-muted">
+	一开始TA是这么一个样子，怎么看都不像一个沙发。
+</span>
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/map_35.jpg">
+</a>
+<span class="caption text-muted">
+	然后我就躺了上去，这下子，看上去是挺懒的。
+</span>
+
+
