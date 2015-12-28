@@ -1,0 +1,36 @@
+---
+layout:     post
+title:      "北京的冬天，被雾霾包围的日子"
+subtitle:   ""
+date:       2015-12-27 15:10:18
+author:     "Cundong"
+header-img: "img/post-bg-02.jpg"
+---
+
+<P>
+    连续好几天了，都有雾霾，我只能在家带着，哪里都不能去。
+</p>
+
+<P>
+    妈妈给我找了个口罩，我戴上试了试。
+</p>
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/map_37.jpg">
+</a>
+
+<P>
+    爸爸给我找了个耳机，我戴上试了试。
+</p>
+<a href="#">
+    <img src="{{ site.baseurl }}/img/map_38.jpg">
+</a>
+
+<P>
+    好希望雾霾快散去，期待蓝蓝的天，我像夏天那样，快乐的跑啊跑的。
+</p>
+<a href="#">
+    <img src="{{ site.baseurl }}/img/map_40.jpg">
+</a>
+
+

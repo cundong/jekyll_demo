@@ -22,7 +22,7 @@ header-img: "img/post-bg-01.jpg"
     <img src="{{ site.baseurl }}/img/map_35.jpg">
 </a>
 <span class="caption text-muted">
-	然后我就躺了上去，这下子，看上去是挺懒的。
+	然后我就躺了上去，看上去确实是挺懒的。。
 </span>
 
 
