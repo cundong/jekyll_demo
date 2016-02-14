@@ -42,3 +42,7 @@ header-img: "img/post-bg-02.jpg"
 <a href="#">
     <img src="{{ site.baseurl }}/img/map_46.jpg">
 </a>
+
+<p>
+	就这样，春节7天假期很快就过去了，寒冷的冬天过去了，春天扑面而来，很快我就能出去玩耍了。
+</p>
