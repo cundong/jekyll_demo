@@ -16,7 +16,7 @@ header-img: "img/post-bg-02.jpg"
 </p>
 
 <p>
-    爸爸陪我用iPad听《读唐诗》，我最近特别喜欢这首歌。
+    除夕夜，全家人在抢红包，看春晚，爸爸陪我用iPad听《读唐诗》，我最近特别喜欢这首歌。
 </p>
 <a href="#">
     <img src="{{ site.baseurl }}/img/map_42.jpg">
@@ -34,7 +34,7 @@ header-img: "img/post-bg-02.jpg"
 </a>
 
 <p>
-	大年初五，又去五彩城玩了玩，回北京的人渐渐多了起来，也热闹了起来。
+	大年初五，去五彩城玩了玩，回北京的人渐渐多了起来，也热闹了起来。
 </p>
 <a href="#">
     <img src="{{ site.baseurl }}/img/map_45.jpg">
