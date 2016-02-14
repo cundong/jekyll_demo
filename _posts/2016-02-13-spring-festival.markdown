@@ -28,6 +28,7 @@ header-img: "img/post-bg-02.jpg"
 <a href="#">
     <img src="{{ site.baseurl }}/img/map_43.jpg">
 </a>
+
 <a href="#">
     <img src="{{ site.baseurl }}/img/map_44.jpg">
 </a>
@@ -38,6 +39,7 @@ header-img: "img/post-bg-02.jpg"
 <a href="#">
     <img src="{{ site.baseurl }}/img/map_45.jpg">
 </a>
+
 <a href="#">
     <img src="{{ site.baseurl }}/img/map_46.jpg">
 </a>
