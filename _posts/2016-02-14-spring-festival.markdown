@@ -4,15 +4,15 @@ title:      "2016年春节"
 subtitle:   ""
 date:       2016-02-14 10:23:18
 author:     "Cundong"
-header-img: "img/post-bg-01.jpg"
+header-img: "img/post-bg-02.jpg"
 ---
 
 <p>
-    2016年春节，我人生中的第二个新年，很快就过去了。
+	2016年春节，我人生中的第二个新年，很快就过去了。
 </p>
 
 <p>
-    爸爸妈妈陪同我在北京度过了这个新年，我收了好几个红包，也出去走了走。
+	爸爸妈妈陪同我在北京度过了这个新年，我收了好几个红包，也出去走了走。
 </p>
 
 <p>
@@ -23,7 +23,7 @@ header-img: "img/post-bg-01.jpg"
 </a>
 
 <p>
-    大年初二，我们一家人前往什刹海，沿着湖走了一圈，我也看了看在安静的冰面上滑冰的人们。
+	大年初二，我们一家人前往什刹海，沿着湖走了一圈，我也看了看在安静的冰面上滑冰的人们。
 </p>
 <a href="#">
     <img src="{{ site.baseurl }}/img/map_43.jpg">
@@ -33,7 +33,8 @@ header-img: "img/post-bg-01.jpg"
     <img src="{{ site.baseurl }}/img/map_44.jpg">
 </a>
 
-<p>大年初五，又去五彩城玩了玩，回北京的人渐渐多了起来，也热闹了起来。
+<p>
+	大年初五，又去五彩城玩了玩，回北京的人渐渐多了起来，也热闹了起来。
 </p>
 <a href="#">
     <img src="{{ site.baseurl }}/img/map_45.jpg">
