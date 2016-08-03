@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "在海边，北戴河"
+title:      "在海边"
 subtitle:   ""
 date:       2016-07-19 15:10:18
 author:     "Cundong"
@@ -8,7 +8,7 @@ header-img: "img/post-bg-01.jpg"
 ---
 
 <p>
-	我就要两岁了，爸爸妈妈第一次带我去海边，看看大海。
+	我就要两岁了，爸爸妈妈第一次带我去北戴河，看看大海。
 </p>
 
 <p>
