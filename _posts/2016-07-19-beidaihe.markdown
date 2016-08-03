@@ -1,0 +1,64 @@
+---
+layout:     post
+title:      "在海边，北戴河"
+subtitle:   ""
+date:       2016-07-19 15:10:18
+author:     "Cundong"
+header-img: "img/post-bg-01.jpg"
+---
+
+<p>
+	快两岁了，第一次去海边，看大海。
+</p>
+
+<p>
+	小猪短租上面找的民宿，感觉房间还挺不错，干净整洁，离海边也很近，妈妈带着我跟姐姐一起玩。
+</p>
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/map_68.jpg">
+</a>
+
+<p>
+	海边玩沙子。
+</p>
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/map_76.jpg">
+</a>
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/map_72.jpg">
+</a>
+
+<p>
+	跟爸爸照相。
+</p>
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/map_75.jpg">
+</a>
+
+<p>
+	我自己照相。
+</p>
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/map_73.jpg">
+</a>
+
+<p>
+	吃海鲜。
+</p>
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/map_74.jpg">
+</a>
+
+<p>
+	妈妈背着我到处溜达。
+</p>
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/map_71.jpg">
+</a>
