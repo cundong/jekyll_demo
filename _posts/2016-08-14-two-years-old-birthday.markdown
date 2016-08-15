@@ -24,5 +24,9 @@ header-img: "img/post-bg-02.jpg"
 </p>
 
 <a href="#">
+    <img src="{{ site.baseurl }}/img/map_79.jpg">
+</a>
+
+<a href="#">
     <img src="{{ site.baseurl }}/img/map_77.jpg">
 </a>
