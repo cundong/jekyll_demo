@@ -30,3 +30,7 @@ header-img: "img/post-bg-02.jpg"
 <a href="#">
     <img src="{{ site.baseurl }}/img/map_77.jpg">
 </a>
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/map_80.jpg">
+</a>
