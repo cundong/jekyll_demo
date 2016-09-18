@@ -25,7 +25,7 @@ header-img: "img/post-bg-01.jpg"
 </a>
 
 <p>
-	饿了，就来个面包吧。
+	跑饿了，就来个面包吧。
 </p>
 <a href="#">
     <img src="{{ site.baseurl }}/img/map_85.jpg">
@@ -43,4 +43,15 @@ header-img: "img/post-bg-01.jpg"
 </p>
 <a href="#">
     <img src="{{ site.baseurl }}/img/map_87.jpg">
+</a>
+
+<p>
+	还有我最喜欢的滑梯～
+</p>
+<a href="#">
+    <img src="{{ site.baseurl }}/img/map_88.jpg">
+</a>
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/map_89.jpg">
 </a>
