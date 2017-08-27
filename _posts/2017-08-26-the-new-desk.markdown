@@ -18,3 +18,7 @@ header-img: "img/post-bg-01.jpg"
 <a href="#">
     <img src="{{ site.baseurl }}/img/map_102.jpg">
 </a>
+
+<p>
+	临睡前，妈妈强行教我玩橡皮泥，做了碗，杯子，眼睛，没有一个是像的。
+</p>
