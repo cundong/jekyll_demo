@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "开始了幼儿园生活"
+title:      "开始幼儿园生活"
 subtitle:   ""
 date:       2017-11-1 08:30:18
 author:     "Cundong"
@@ -8,7 +8,7 @@ header-img: "img/post-bg-02.jpg"
 ---
 
 <p>
-	忽然之间，三年就过去了，三年前的今天，我是这个样子。
+	忽然之间，三年就过去了。三年前的今天，我是这个样子。
 </p>
 <a href="#">
     <img src="{{ site.baseurl }}/img/map_103.jpg">
@@ -22,7 +22,7 @@ header-img: "img/post-bg-02.jpg"
 </a>
 
 <p>
-	今天的我，和同龄人一样，爸爸妈妈带着，前往幼儿园，开始了集体生活，新的生活铺展开来。</p>
+	今天的我，和同龄人一样，由爸爸妈妈带着，赶往幼儿园，开始学着融入集体，新的生活铺展开来。</p>
 <a href="#">
     <img src="{{ site.baseurl }}/img/map_105.jpg">
 </a>
